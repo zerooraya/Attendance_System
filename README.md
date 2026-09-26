@@ -12,6 +12,10 @@ gives feedback via LCD, LEDs and buzzer, and logs all events to a PC
 
 via serial UART.
 
+## Project Photo
+
+![Project setup with breadboard, PIC16F877A, RC522 reader and LCD](images/project_photo.png)
+
 ## Three Interfaces
 
 - Interface 1: RFID input via RC522 module (SPI protocol)
@@ -64,7 +68,13 @@ via serial UART.
 
 ## Group Members
 
-- Shayan Kargar , Raya Ghazizadeh, Helia Ghazizadeh
+![Team photo](images/team_photo.png)
+
+- Shayan Kargar
+
+- Raya Ghazizadeh
+
+- Helya Ghazizadeh
 
 ## Course
 
