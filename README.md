@@ -14,7 +14,7 @@ via serial UART.
 
 ## Project Photo
 
-![Project setup with breadboard, PIC16F877A, RC522 reader and LCD](images/project_photo.png)
+<img src="project_photo.png" alt="Project setup with breadboard, PIC16F877A, RC522 reader and LCD" width="500">
 
 ## Three Interfaces
 
@@ -68,7 +68,7 @@ via serial UART.
 
 ## Group Members
 
-![Team photo](images/team_photo.png)
+<img src="team_photo.png" alt="Team photo" width="500">
 
 - Shayan Kargar
 
